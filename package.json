@@ -3,7 +3,7 @@
   "devDependencies": {
     "electron": "^2.0.1",
     "foreman": "^3.0.0",
-    "react-scripts": "^1.0.14"
+    "react-scripts": "^5.0.1"
   },
   "dependencies": {
     "@pusher/chatkit": "^0.7.12",
